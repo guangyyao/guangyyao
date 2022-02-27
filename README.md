@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guangyyao
-- 👀 I’m interested in bringing healthcare with concurrent time and cost savings to everybody's fingertips
+- 👀 I’m interested in bringing easy-to-use healthcare and product/specialist recommendations to everybody's fingertips
 - 🌱 I’m currently learning full stack web programming
-- 💞️ I’m looking to collaborate on, you guessed it, bringing healthcare with concurrent time and cost savings to everybody's fingertips
+- 💞️ I’m looking to collaborate on, you guessed it, on revolutionizing healthcare with the above vision.
 - 📫 How to reach me guangyyao@gmail.com
 
 <!---
