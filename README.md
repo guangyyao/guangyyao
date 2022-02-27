@@ -11,19 +11,23 @@ You can click the Preview link to take a look at your changes.
 
 
 ...or create a new repo on the command line:
->>> echo "# git-repository" >> README.md
->>> git init
->>> git add README.md
->>> git commit -m "first commit"
->>> branch -M main
->>> git remote add origin https://
->>> git push -u origin main
+>>> 
+echo "# git-repository" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+branch -M main
+git remote add origin https://
+git push -u origin main
+>>> 
 
 
 ...or push an existing repo from the command line:
->>> git remote add origin https://
->>> git branch -M main
->>> git push -u origin main
+>>> 
+git remote add origin https://
+git branch -M main
+git push -u origin main
+>>> 
 
 
 ...or import code from another repo:
